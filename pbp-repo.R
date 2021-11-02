@@ -21,7 +21,7 @@ for (k in 1:nrow(pbp_games)) {
   
   g <- use$game_id
   
-  pbp_data <- load_pbp(game_id = g)
+  pbp_data <- load_phf_pbp(game_id = g)
   
   p[[k]] <- pbp_data
   

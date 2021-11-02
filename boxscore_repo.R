@@ -23,7 +23,7 @@ for (k in 1:nrow(box_games)) {
   g <- use$game_id
   dr <- use$date
   
-  box_data <- load_boxscore(game_id = g) %>%
+  box_data <- load_phf_boxscore(game_id = g) %>%
     mutate(date = dr)
   
   b[[k]] <- box_data
