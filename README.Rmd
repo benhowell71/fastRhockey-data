@@ -60,7 +60,7 @@ Once the [**`fastRhockey`**](https://github.com/BenHowell71/fastRhockey/) packag
 This repo contains three main CSVs of data, each of which is outlined in a little more detail below.                       
 
 - `phf_meta_data.csv`: this csv contains all the data that you'd want on an individual game in one row. Contains home/away teams, arena information, game IDs, league IDs, and more                          
-- `boxscore.csv`: this csv contains all the boxscore information from the PHF for all the games that are listed in `phf_meta_data.csv`. Contains data on game ID, scoring by period, shots be period, power play numbers, and more, all broken down by each team involved in a game                      
+- `boxscore.csv`: this csv contains all the boxscore information from the PHF for the games in `phf_meta_data.csv`. Contains data on game ID, scoring by period, shots be period, power play numbers, and more, all broken down by each team involved in a game                      
 - `play_by_play.csv`: this csv contains all the play-by-play data from the PHF. It includes information on events, how many skaters were on the ice, penalties, shots, etc. This data is essentially complete for the more recent PHF seasons, while it is spottier, usually just goals and penalties, from the early seasons of the league                     
 
 The best way to get familiar with this data is to use it! You can either download directly from this repo or use [**`fastRhockey`**](https://github.com/BenHowell71/fastRhockey/) to scrape the data yourself.

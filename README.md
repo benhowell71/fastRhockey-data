@@ -64,10 +64,9 @@ a little more detail below.
     on an individual game in one row. Contains home/away teams, arena
     information, game IDs, league IDs, and more  
 -   `boxscore.csv`: this csv contains all the boxscore information from
-    the PHF for all the games that are listed in `phf_meta_data.csv`.
-    Contains data on game ID, scoring by period, shots be period, power
-    play numbers, and more, all broken down by each team involved in a
-    game  
+    the PHF for the games in `phf_meta_data.csv`. Contains data on game
+    ID, scoring by period, shots be period, power play numbers, and
+    more, all broken down by each team involved in a game  
 -   `play_by_play.csv`: this csv contains all the play-by-play data from
     the PHF. It includes information on events, how many skaters were on
     the ice, penalties, shots, etc. This data is essentially complete
