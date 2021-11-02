@@ -9,6 +9,10 @@ compiled with the
 [**`fastRhockey`**](https://github.com/BenHowell71/fastRhockey/) package
 from [GitHub](https://github.com/BenHowell71/fastRhockey).
 
+You can find
+[**`fastRhockey`**](https://github.com/BenHowell71/fastRhockey/) here:
+[BenHowell71/fastRhockey](https://github.com/BenHowell71/fastRhockey/)
+
 The scraper was created to increase access to play-by-play and boxscore
 data for the PHF, which has historically been one of the bigger barriers
 to entry regarding women’s hockey analytics.
